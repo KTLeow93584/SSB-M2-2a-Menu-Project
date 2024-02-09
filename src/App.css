@@ -1,0 +1,34 @@
+.category-panel {
+    position: fixed;
+}
+
+.card-element {
+    width: 100%;
+}
+
+.card-body {
+    height: fit-content;
+}
+
+.card-title {
+    margin: auto;
+}
+
+.card-description-text {
+    height: 120px;
+    overflow-y: auto;
+    margin: auto;
+}
+
+.card-nutritional-text {
+    overflow-y: auto;
+    margin: auto;
+}
+
+.card-cart-button {
+    margin-top: 2%;
+}
+
+.card-cart-button {
+    width: 90%;
+}

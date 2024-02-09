@@ -1,0 +1,5 @@
+.page-overlay {
+    background: linear-gradient(45deg, rgba(37, 37, 37, 1) 0%, rgba(16, 16, 16, 1) 50%, rgba(0, 0, 0, 1) 100%);
+    width: 100%;
+    height: 100%;
+}
